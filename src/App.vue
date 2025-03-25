@@ -1,11 +1,12 @@
 <script setup>
-import PolynomialWheel from '@/components/polynomial.vue'
-import Wheel from "@/components/Wheel/Wheel.vue";
+
+import Polynomial from "@/components/Polynomial.vue";
+
 </script>
 
 <template>
   <main>
-    <PolynomialWheel />
+    <Polynomial />
   </main>
 </template>
 
