@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Polinomio",
+    "value": "¿Qué es un polinomio?",
+    "bgColor": "#45ace9",
+    "color": "#ffffff",
+    "probability": 99,
+    "answer": "Un polinomio es una expresión algebraica que se forma al sumar o restar varios monomios. Los monomios son términos que están compuestos por un coeficiente numérico y una variable elevada a una potencia no negativa. "
+  },
+  {
+    "id": 2,
+    "name": "Elementos",
+    "value": "¿Cuáles son los elementos de un polinomio?",
+    "bgColor": "#dd3832",
+    "color": "#ffffff",
+    "probability": 99,
+    "answer": "Los elementos principales de un polinomio son: términos (monomios que lo componen), coeficientes (números que multiplican a la variable), variable (letra que representa una incógnita), exponentes (que indican la potencia a la que se eleva la variable), grado (el mayor exponente de la variable) y término independiente (término sin variable). "
+  },
+  {
+    "id": 3,
+    "name": "Forma",
+    "value": "¿Cómo se forma un polinomio?",
+    "bgColor": "#978b05",
+    "color": "#ffffff",
+    "probability": 99,
+    "answer": "La forma de un polinomio es la suma de términos que contienen variables, constantes o exponentes. Los términos se ordenan en orden descendente de acuerdo a las potencias de la variable. "
+  },
+  {
+    "id": 4,
+    "name": "Términos",
+    "value": "¿Qué son los términos semejantes?",
+    "bgColor": "#018729",
+    "color": "#ffffff",
+    "probability": 99,
+    "answer": "Los términos de un polinomio son las partes de la expresión algebraica que se separan por los operadores suma (+) o resta (-). Cada término está compuesto por constantes y/o variables, y puede contener operaciones de multiplicación y exponentes. "
+  },
+  {
+    "id": 4,
+    "name": "Grado",
+    "value": "¿Qué es el grado de un polinomio?",
+    "bgColor": "#3498db",
+    "color": "#ffffff",
+    "probability": 99,
+    "answer": "El grado de un polinomio es el exponente más grande de las variables que lo componen. Se utiliza para clasificar los polinomios y para determinar el número de intersecciones en x y el número de puntos de inflexión. "
+  },
+  {
+    "id": 5,
+    "name": "Monomio",
+    "value": "¿Qué es un monomio?",
+    "bgColor": "#6c3483",
+    "color": "#ffffff",
+    "probability": 99,
+    "answer": "Un monomio es una expresión algebraica que tiene un solo término. Es una clase de polinomio, que es una expresión algebraica con dos o más términos. \n"
+  },
+  {
+    "id": 6,
+    "name": "Binomio",
+    "value": "¿Qué es un binomio?",
+    "bgColor": "#e74c3c",
+    "color": "#ffffff",
+    "probability": 99,
+    "answer": "En álgebra, un binomio es una expresión algebraica que consta de dos términos separados por un signo más (+) o menos (-). \n"
+  },
+  {
+    "id": 7,
+    "name": "Clasificación ",
+    "value": "¿Cómo se clasifican de los polinomios?",
+    "bgColor": "#117a65",
+    "color": "#ffffff",
+    "probability": 99,
+    "answer": "Un polinomio con un solo término se llama monomio.\nUn polinomio con dos términos se llama binomio.\nUn polinomio con tres términos se llama trinomio.\nUn polinomio con cuatro términos se llama tetranomio."
+  },
+  {
+    "id": 8,
+    "name": "Características",
+    "value": "¿Cómo se caracterizan los polinomios?",
+    "bgColor": "#f5b041",
+    "color": "#ffffff",
+    "probability": 99,
+    "answer": "Los polinomios están formados por sumas y productos de monomios. \nCada monomio que forma un polinomio se llama término. \nLos polinomios pueden tener dos o más variables. \nLas variables en un polinomio solo pueden tener cero o números naturales como exponentes. \nEl grado de un polinomio es el mayor exponente al que se eleva la variable. "
+  }
+]
