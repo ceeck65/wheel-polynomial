@@ -1,5 +1,5 @@
 <script setup>
-import PolynomialWheel from './components/polynomial.vue'
+import PolynomialWheel from '@/components/polynomial.vue'
 import Wheel from "@/components/Wheel/Wheel.vue";
 </script>
 
